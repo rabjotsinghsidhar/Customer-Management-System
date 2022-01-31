@@ -1,0 +1,2 @@
+# Customer-Management-System
+The aim of this project is to develop Customer Management System (CMS) which is one of the systems included in Enterprise Resource Planning (ERP). The objective of the project is to build a system that can help business to decrease the defection rate in billing and in turn enhance customer’s experience. This project not only improves the speed of billing but also keeps track of existing customers.
